@@ -24,6 +24,17 @@ The feature selection techniques used are:
 3.Embedded Method
 
 # CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+       
+![alt text](U4-1.png)
+![alt text](U4-2.png)
+![alt text](U4-3.png)
+![alt text](U4-4.png)
+![alt text](U4-5.png)
+![alt text](U4-6.png)
+![alt text](U4-7.png)
+![alt text](U4-8.png)
+
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+       
+
+     Thus,The given data is read and performed Feature Scaling and Feature Selection process and saved the data to a file.
