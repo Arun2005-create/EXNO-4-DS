@@ -36,5 +36,4 @@ The feature selection techniques used are:
 
 # RESULT:
        
-
-     Thus,The given data is read and performed Feature Scaling and Feature Selection process and saved the data to a file.
+Thus,The given data is read and performed Feature Scaling and Feature Selection process and saved the data to a file.
